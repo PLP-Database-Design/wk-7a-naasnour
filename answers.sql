@@ -1,5 +1,8 @@
--- Submitted by: YOUR NAME
--- Week 7 Assignment: Database Design and Normalization
+-- Submitted by: Diaarietou Nasradine Diop
+-- PLP Database Design and Programming – Week 7 Assignment
+
+CREATE DATABASE IF NOT EXISTS plp_week7;
+USE plp_week7;
 
 -- ==========================================================
 -- QUESTION 1: Transform to First Normal Form (1NF)
